@@ -1,4 +1,4 @@
-# Machine Learning Model Deployment through Heruko app
+# Machine Learning Model Deployment
 
 This repository consists of documents required to deploy my ML model Web-App live via Heruko app. 
 
