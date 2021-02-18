@@ -16,6 +16,6 @@ The model is trained and tested by using the available dataset. The accuracy of 
 
 Web-App is created using Flask web development and the HTML templates as seen in folder "templates". Furthermore, the developed web-app is launched and deployed on Heruko platform. The web-app can be found via the following link:
 
-https://purchase-pred-app.herokuapp.com/predict
+https://purchase-pred-app.herokuapp.com
 
 
